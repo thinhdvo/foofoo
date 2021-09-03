@@ -1,1 +1,2 @@
+thirdBranch: here
 this message is from newBranch
