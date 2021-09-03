@@ -1,3 +1,4 @@
 thirdBranch: here
 this message is from newBranch
 im a master branch
+master: checkin
